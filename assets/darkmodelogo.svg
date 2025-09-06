@@ -1,0 +1,10 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg"
+    class="rounded-full shadow-lg p-4 bg-gray-900">
+    <rect width="200" height="200" rx="100" fill="#2D3748" />
+    <path d="M100 10 L20 60 C20 120 100 190 100 190 C100 190 180 120 180 60 L100 10 Z" fill="#2B6CB0" stroke="#4299E1"
+        stroke-width="5" />
+    <path d="M75 140 L100 80 L125 140 M85 120 L115 120" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="5"
+        stroke-linecap="round" stroke-linejoin="round" />
+    <text x="100" y="105" text-anchor="middle" font-family="Inter, sans-serif" font-size="60" font-weight="bold"
+        fill="#4299E1">A</text>
+</svg>

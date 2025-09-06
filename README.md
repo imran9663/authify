@@ -1,5 +1,5 @@
 # 🔐 Authify - Multi-App Authentication System
-
+![AUTHIFY_LOGO](./assets/originalLogo.svg)
 **Authify** is a comprehensive, production-ready authentication system built with Node.js and Express.js. It provides secure user authentication and authorization that can be used by multiple applications, making it perfect for microservices, multi-tenant applications, or any system requiring centralized authentication.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
